@@ -1,0 +1,22 @@
+C:\Users\a846205123\Desktop\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe.config
+C:\Users\a846205123\Desktop\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe
+C:\Users\a846205123\Desktop\ReadExcel\ReadExcel\bin\Debug\ReadExcel.pdb
+C:\Users\a846205123\Desktop\ReadExcel\ReadExcel\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\a846205123\Desktop\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csprojResolveAssemblyReference.cache
+C:\Users\a846205123\Desktop\ReadExcel\ReadExcel\obj\Debug\ReadExcel.Form1.resources
+C:\Users\a846205123\Desktop\ReadExcel\ReadExcel\obj\Debug\ReadExcel.Properties.Resources.resources
+C:\Users\a846205123\Desktop\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.GenerateResource.Cache
+C:\Users\a846205123\Desktop\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.CoreCompileInputs.cache
+C:\Users\a846205123\Desktop\ReadExcel\ReadExcel\obj\Debug\ReadExcel.exe
+C:\Users\a846205123\Desktop\ReadExcel\ReadExcel\obj\Debug\ReadExcel.pdb
+C:\Users\a846205123\Desktop\QRCode Maker\ReadExcel\bin\Debug\ReadExcel.exe.config
+C:\Users\a846205123\Desktop\QRCode Maker\ReadExcel\bin\Debug\ReadExcel.exe
+C:\Users\a846205123\Desktop\QRCode Maker\ReadExcel\bin\Debug\ReadExcel.pdb
+C:\Users\a846205123\Desktop\QRCode Maker\ReadExcel\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\a846205123\Desktop\QRCode Maker\ReadExcel\obj\Debug\ReadExcel.csprojResolveAssemblyReference.cache
+C:\Users\a846205123\Desktop\QRCode Maker\ReadExcel\obj\Debug\ReadExcel.Form1.resources
+C:\Users\a846205123\Desktop\QRCode Maker\ReadExcel\obj\Debug\ReadExcel.Properties.Resources.resources
+C:\Users\a846205123\Desktop\QRCode Maker\ReadExcel\obj\Debug\ReadExcel.csproj.GenerateResource.Cache
+C:\Users\a846205123\Desktop\QRCode Maker\ReadExcel\obj\Debug\ReadExcel.csproj.CoreCompileInputs.cache
+C:\Users\a846205123\Desktop\QRCode Maker\ReadExcel\obj\Debug\ReadExcel.exe
+C:\Users\a846205123\Desktop\QRCode Maker\ReadExcel\obj\Debug\ReadExcel.pdb

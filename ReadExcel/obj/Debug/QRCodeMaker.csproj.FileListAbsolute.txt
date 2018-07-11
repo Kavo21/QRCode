@@ -1,0 +1,12 @@
+E:\Kinect v2\QRCode Maker\ReadExcel\bin\Debug\MessagingToolkit.QRCode.dll
+E:\Kinect v2\QRCode Maker\ReadExcel\obj\Debug\ReadExcel.Form1.resources
+E:\Kinect v2\QRCode Maker\ReadExcel\obj\Debug\QRCodeMaker.csproj.GenerateResource.cache
+E:\Kinect v2\QRCode Maker\ReadExcel\obj\Debug\QRCodeMaker.csproj.CoreCompileInputs.cache
+E:\Kinect v2\QRCode Maker\ReadExcel\obj\Debug\QRCodeMaker.csproj.CopyComplete
+E:\Kinect v2\QRCode Maker\ReadExcel\bin\Debug\QRCoderMaker.exe.config
+E:\Kinect v2\QRCode Maker\ReadExcel\bin\Debug\QRCoderMaker.exe
+E:\Kinect v2\QRCode Maker\ReadExcel\bin\Debug\QRCoderMaker.pdb
+E:\Kinect v2\QRCode Maker\ReadExcel\obj\Debug\QRCodeMaker.csprojAssemblyReference.cache
+E:\Kinect v2\QRCode Maker\ReadExcel\obj\Debug\QRCoderMaker.Properties.Resources.resources
+E:\Kinect v2\QRCode Maker\ReadExcel\obj\Debug\QRCoderMaker.exe
+E:\Kinect v2\QRCode Maker\ReadExcel\obj\Debug\QRCoderMaker.pdb
